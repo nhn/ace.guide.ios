@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AceTM-Swift.h</key>
 		<data>
-		8xHaNKg0wGyerWVsz0vP048WEt8=
+		8f/dCVJh2UZ1KUR6DRLEhke3uKc=
 		</data>
 		<key>Headers/AceTM-umbrella.h</key>
 		<data>
@@ -22,23 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0rH6BcJpecSRUJGwkonc0VKjveQ=
+		Y99zPoRwZTFtrwdgr1XA9p1o8ys=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftdoc</key>
 		<data>
-		7leO4j7fsJdrwTG9YP0VXZM2wuM=
+		inzFXe/DkB7dozsRKAceIEPEZNo=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<data>
-		AvXaHxsdG7juVrCmoJyaU7cvnPg=
+		ce/B/Ch9hYMyEW9YiM1zr/uQ+0U=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cBc9aFJ6hsqXFifabEm7SwLcWZo=
+		g+rab14agHdq0nAri5w6r1jLA80=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		gq1NlzrqFSmDLb6o8BCcZ40lG4E=
+		XiX8XTYzeljEQqtWGtUDJsKeOfs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8xHaNKg0wGyerWVsz0vP048WEt8=
+			8f/dCVJh2UZ1KUR6DRLEhke3uKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3sBnJzsTMmq8pAjsOIdNSF/djGsZMXlGE8LMD1Tl8xA=
+			drGQ463rIJI76BzXyDBnH1akuRdrQWETQ9RvOC9EvBY=
 			</data>
 		</dict>
 		<key>Headers/AceTM-umbrella.h</key>
@@ -95,44 +95,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7leO4j7fsJdrwTG9YP0VXZM2wuM=
+			inzFXe/DkB7dozsRKAceIEPEZNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			BRw+ZC1JeielD09IK8zbfwB4nD422xMaHMwF3iC/8Do=
+			Jp0oQMzfDEIKpgHWofBFKSKeZ6HQo49xQ6vEhgks4NU=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AvXaHxsdG7juVrCmoJyaU7cvnPg=
+			ce/B/Ch9hYMyEW9YiM1zr/uQ+0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			utFnDU6iiWL25nVXA1kCUAVZMIsfcsFLYUgtN2Wyi/w=
+			lVPfmlLZV/H+cp/xIlYH86hjkJMV84thLUKplVGuQ4M=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cBc9aFJ6hsqXFifabEm7SwLcWZo=
+			g+rab14agHdq0nAri5w6r1jLA80=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtPLzVbOj3xwQ9XcYz1DmomxUnghFhdH+fLY8w1eq1Q=
+			8zG6xanJV0HYKSOskjdLNmPyPFU9tZzdfYE3ZAfhG/o=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gq1NlzrqFSmDLb6o8BCcZ40lG4E=
+			XiX8XTYzeljEQqtWGtUDJsKeOfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5EKD9CX8VJ5NUblLGIiCyzEzXR6/eKJz3tvfBCphrsA=
+			kcdps9Xefcvw+bLQL0UvZOwYpvdHQ53BjDgA4HivtQI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
