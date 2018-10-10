@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AceTM-Swift.h</key>
 		<data>
-		oZ96P7+25cZW9CxNuJrpGIv2ggY=
+		8xHaNKg0wGyerWVsz0vP048WEt8=
 		</data>
 		<key>Headers/AceTM-umbrella.h</key>
 		<data>
@@ -22,23 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		axS2O7pE5wfXpSDI6iol9iwUmQY=
+		0rH6BcJpecSRUJGwkonc0VKjveQ=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftdoc</key>
 		<data>
-		inzFXe/DkB7dozsRKAceIEPEZNo=
+		7leO4j7fsJdrwTG9YP0VXZM2wuM=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<data>
-		C9AmjeoYB5zFPDUu6GlUyhjXQ9k=
+		AvXaHxsdG7juVrCmoJyaU7cvnPg=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		g+rab14agHdq0nAri5w6r1jLA80=
+		cBc9aFJ6hsqXFifabEm7SwLcWZo=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vDo2nKRcknOS/D0KhgBqUc+WzSA=
+		gq1NlzrqFSmDLb6o8BCcZ40lG4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oZ96P7+25cZW9CxNuJrpGIv2ggY=
+			8xHaNKg0wGyerWVsz0vP048WEt8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FGGzGVlw6X8xxlJt1mOyAtjkkQTSq/WTj5ssWalvsFc=
+			3sBnJzsTMmq8pAjsOIdNSF/djGsZMXlGE8LMD1Tl8xA=
 			</data>
 		</dict>
 		<key>Headers/AceTM-umbrella.h</key>
@@ -95,44 +95,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			inzFXe/DkB7dozsRKAceIEPEZNo=
+			7leO4j7fsJdrwTG9YP0VXZM2wuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jp0oQMzfDEIKpgHWofBFKSKeZ6HQo49xQ6vEhgks4NU=
+			BRw+ZC1JeielD09IK8zbfwB4nD422xMaHMwF3iC/8Do=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C9AmjeoYB5zFPDUu6GlUyhjXQ9k=
+			AvXaHxsdG7juVrCmoJyaU7cvnPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			j3cFoXqbN1c5xmEi4PbovWP9fmFLiwqfefybgbUHiVI=
+			utFnDU6iiWL25nVXA1kCUAVZMIsfcsFLYUgtN2Wyi/w=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g+rab14agHdq0nAri5w6r1jLA80=
+			cBc9aFJ6hsqXFifabEm7SwLcWZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			8zG6xanJV0HYKSOskjdLNmPyPFU9tZzdfYE3ZAfhG/o=
+			NtPLzVbOj3xwQ9XcYz1DmomxUnghFhdH+fLY8w1eq1Q=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vDo2nKRcknOS/D0KhgBqUc+WzSA=
+			gq1NlzrqFSmDLb6o8BCcZ40lG4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			f8CJlRYzsNJS+BflGwHlU6CrxliMOmepYNew6GlbFMA=
+			5EKD9CX8VJ5NUblLGIiCyzEzXR6/eKJz3tvfBCphrsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -149,7 +149,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -180,24 +180,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -233,13 +221,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
