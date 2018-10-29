@@ -72,9 +72,9 @@ class HybridWKWebViewViewController: UIViewController, WKNavigationDelegate, WKU
                  initiatedByFrame frame: WKFrameInfo, completionHandler: @escaping () -> Void) {
         print("called \(#function)")
         let alertController = UIAlertController(title: message, message: nil,
-                                                preferredStyle: UIAlertController.Style.alert);
+                                                preferredStyle: UIAlertControllerStyle.alert);
         
-        alertController.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.cancel) {
+        alertController.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.cancel) {
             _ in completionHandler()}
         );
         
