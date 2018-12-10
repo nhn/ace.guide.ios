@@ -20,7 +20,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [classNameLabel setText:NSStringFromClass(self.class)];
-    [AceTM viewDidLoadWithResponder:self autoPv:NO];
+    [AceTM viewDidLoadWithAutoPv:NO];
     NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"http://www.acecounter.com/www2/main.amz"]];
     [mWebView loadRequest:request];
     [mWebView setDelegate:self];

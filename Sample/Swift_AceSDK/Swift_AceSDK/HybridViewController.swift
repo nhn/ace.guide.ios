@@ -15,7 +15,7 @@ class HybridViewController: UIViewController, UIWebViewDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        AceTM.viewDidLoad(responder: self, autoPv: false)
+        AceTM.viewDidLoad(autoPv: false)
         
         classNameLabel.text = String(describing: HybridViewController.self)
         print("AceCommon.getIsDebug(): \(AceCommon.getIsDebug())")

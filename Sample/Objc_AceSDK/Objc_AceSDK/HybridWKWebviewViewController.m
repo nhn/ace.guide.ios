@@ -22,7 +22,7 @@
     // Do any additional setup after loading the view.
     NSLog(@"%s called", __FUNCTION__);
     [classNameLabel setText:NSStringFromClass(self.class)];
-    [AceTM viewDidLoadWithResponder:self autoPv:NO];
+    [AceTM viewDidLoadWithAutoPv:NO];
     
     WKWebViewConfiguration *config = [[WKWebViewConfiguration alloc] init];
     WKUserContentController *jsctrl = [[WKUserContentController alloc] init];

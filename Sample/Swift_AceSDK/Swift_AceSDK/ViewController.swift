@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        AceTM.viewDidLoad(responder: self)
+        AceTM.viewDidLoad()
     }
     
     override func didReceiveMemoryWarning() {
@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     
     @IBAction func pvClicked(_ sender: UIButton) {
         print("\(#function) clicked")
-        AceTM.pv(responder: self)
+        AceTM.pv(page: "pvClicked")
     }
     
     // MARK: - Segue

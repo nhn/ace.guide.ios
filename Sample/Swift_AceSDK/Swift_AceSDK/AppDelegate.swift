@@ -87,13 +87,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     
     func application(_ app: UIApplication, open url: URL, options: [UIApplicationOpenURLOptionsKey : Any] = [:]) -> Bool {
         print("\(#function)::called")
-        AceTM.appOpenUrl(responder: self, url: url)
+        AceTM.appOpenUrl(url: url)
         return true
     }
     
     func application(_ application: UIApplication, handleOpen url: URL) -> Bool {
         print("\(#function)::called")
-        AceTM.appOpenUrl(responder: self, url: url)
+        AceTM.appOpenUrl(url: url)
         return true
     }
     

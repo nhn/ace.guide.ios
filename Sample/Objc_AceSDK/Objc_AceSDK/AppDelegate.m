@@ -49,7 +49,7 @@ continueUserActivity:(NSUserActivity *)userActivity
 }
 
 -(BOOL)application:(UIApplication *)application openURL:(NSURL *)url sourceApplication:(NSString *)sourceApplication annotation:(id)annotation{
-    [AceTM appOpenUrlWithResponder:self url:url];
+    [AceTM appOpenUrlWithUrl:url];
     return YES;
 }
 

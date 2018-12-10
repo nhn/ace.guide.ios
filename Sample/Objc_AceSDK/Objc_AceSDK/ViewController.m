@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    [AceTM viewDidLoadWithResponder:self autoPv:YES];
+    [AceTM viewDidLoadWithAutoPv:YES];
 }
 
 
@@ -29,7 +29,7 @@
 }
 
 - (IBAction)pvClicked:(UIButton *)sender {
-    [AceTM pvWithResponder:self];
+    [AceTM pv];
 }
 
 - (IBAction)returnFromSegueActions:(UIStoryboardSegue *)segue {
