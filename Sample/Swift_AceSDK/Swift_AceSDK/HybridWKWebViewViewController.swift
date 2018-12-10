@@ -36,7 +36,7 @@ class HybridWKWebViewViewController: UIViewController, WKNavigationDelegate, WKU
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        AceTM.viewDidLoad(responder: self, autoPv: false)
+        AceTM.viewDidLoad(autoPv: false)
         
         // Do any additional setup after loading the view.
         classNameLabel.text = String(describing: HybridWKWebViewViewController.self)

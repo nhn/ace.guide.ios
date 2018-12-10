@@ -1,5 +1,5 @@
 framework module AceTM {
-  umbrella header "AceTM-umbrella.h"
+  umbrella header "AceTM.h"
 
   export *
   module * { export * }
