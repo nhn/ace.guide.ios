@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AE237FE921C88FFF0037D408 /* AceTM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE237FE721C88FFB0037D408 /* AceTM.framework */; };
-		AE237FEA21C88FFF0037D408 /* AceTM.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE237FE721C88FFB0037D408 /* AceTM.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AE1F6D9E21C8907B006C16F9 /* AceTM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE1F6D9C21C89075006C16F9 /* AceTM.framework */; };
+		AE1F6D9F21C8907B006C16F9 /* AceTM.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE1F6D9C21C89075006C16F9 /* AceTM.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		AEFBA55220DCBCE000A390D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEFBA55120DCBCE000A390D5 /* AppDelegate.swift */; };
 		AEFBA55420DCBCE000A390D5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEFBA55320DCBCE000A390D5 /* ViewController.swift */; };
 		AEFBA55720DCBCE000A390D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEFBA55520DCBCE000A390D5 /* Main.storyboard */; };
@@ -38,7 +38,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				AE237FEA21C88FFF0037D408 /* AceTM.framework in Embed Frameworks */,
+				AE1F6D9F21C8907B006C16F9 /* AceTM.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,7 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		AE237FE721C88FFB0037D408 /* AceTM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AceTM.framework; sourceTree = "<group>"; };
+		AE1F6D9C21C89075006C16F9 /* AceTM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AceTM.framework; sourceTree = "<group>"; };
 		AEFBA54E20DCBCE000A390D5 /* Swift_AceSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_AceSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEFBA55120DCBCE000A390D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AEFBA55320DCBCE000A390D5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEFBA5C220DCC77400A390D5 /* WebKit.framework in Frameworks */,
-				AE237FE921C88FFF0037D408 /* AceTM.framework in Frameworks */,
+				AE1F6D9E21C8907B006C16F9 /* AceTM.framework in Frameworks */,
 				AEFBA5C020DCC76B00A390D5 /* UserNotifications.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -107,7 +107,7 @@
 		AEFBA55020DCBCE000A390D5 /* Swift_AceSDK */ = {
 			isa = PBXGroup;
 			children = (
-				AE237FE721C88FFB0037D408 /* AceTM.framework */,
+				AE1F6D9C21C89075006C16F9 /* AceTM.framework */,
 				AEFBA5A620DCBE2E00A390D5 /* Swift_AceSDK.entitlements */,
 				AEFBA55120DCBCE000A390D5 /* AppDelegate.swift */,
 				AEFBA55320DCBCE000A390D5 /* ViewController.swift */,
