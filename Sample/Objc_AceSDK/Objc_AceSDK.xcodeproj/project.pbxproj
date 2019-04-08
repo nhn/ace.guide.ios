@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AE10C9ED21D097940000CB6D /* AceTM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE10C9EB21D097900000CB6D /* AceTM.framework */; };
-		AE10C9EE21D097940000CB6D /* AceTM.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE10C9EB21D097900000CB6D /* AceTM.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AE1D2AA4225AF14D006C7A63 /* AceTM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE1D2AA2225AF146006C7A63 /* AceTM.framework */; };
+		AE1D2AA5225AF14D006C7A63 /* AceTM.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE1D2AA2225AF146006C7A63 /* AceTM.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		AEFBA57F20DCBD8900A390D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AEFBA57E20DCBD8900A390D5 /* AppDelegate.m */; };
 		AEFBA58220DCBD8900A390D5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEFBA58120DCBD8900A390D5 /* ViewController.m */; };
 		AEFBA58520DCBD8900A390D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEFBA58320DCBD8900A390D5 /* Main.storyboard */; };
@@ -39,7 +39,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				AE10C9EE21D097940000CB6D /* AceTM.framework in Embed Frameworks */,
+				AE1D2AA5225AF14D006C7A63 /* AceTM.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -47,7 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		AE10C9EB21D097900000CB6D /* AceTM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AceTM.framework; sourceTree = "<group>"; };
+		AE1D2AA2225AF146006C7A63 /* AceTM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AceTM.framework; sourceTree = "<group>"; };
 		AEFBA57A20DCBD8900A390D5 /* Objc_AceSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Objc_AceSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEFBA57D20DCBD8900A390D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AEFBA57E20DCBD8900A390D5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEFBA5BD20DCC4B700A390D5 /* WebKit.framework in Frameworks */,
-				AE10C9ED21D097940000CB6D /* AceTM.framework in Frameworks */,
+				AE1D2AA4225AF14D006C7A63 /* AceTM.framework in Frameworks */,
 				AEFBA5BB20DCC4B300A390D5 /* UserNotifications.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -113,7 +113,7 @@
 		AEFBA57C20DCBD8900A390D5 /* Objc_AceSDK */ = {
 			isa = PBXGroup;
 			children = (
-				AE10C9EB21D097900000CB6D /* AceTM.framework */,
+				AE1D2AA2225AF146006C7A63 /* AceTM.framework */,
 				AEFBA5B720DCC3A200A390D5 /* Objc_AceSDK.entitlements */,
 				AEFBA57D20DCBD8900A390D5 /* AppDelegate.h */,
 				AEFBA57E20DCBD8900A390D5 /* AppDelegate.m */,
@@ -439,7 +439,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Objc_AceSDK/Objc_AceSDK.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6FHHKKT6PG;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Objc_AceSDK",
@@ -462,7 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Objc_AceSDK/Objc_AceSDK.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6FHHKKT6PG;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Objc_AceSDK",
