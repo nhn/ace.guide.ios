@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AceTM-Swift.h</key>
 		<data>
-		fiZAiJY5XIIMzvFeRV3GA5Nq8k0=
+		K1x4+eMTmha2lsGrOoq4CCakcy0=
 		</data>
 		<key>Headers/AceTM.h</key>
 		<data>
@@ -22,23 +22,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g53lmVr7ssmChK2Zp8lNED2U9jQ=
+		gfraxNxUazkUpFrlOhpIxW+iBFA=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftdoc</key>
 		<data>
-		hvIXL/8PKgCTxjOeNsJWmGjv6JM=
+		B0+Nh7RiC7M+4kvB6nt5Kzta81k=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<data>
-		oJd2QcT+EmiifPRP7yJKm7Yt7nE=
+		H5AbPNKe8pykspyjNzi9FhS+NnE=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		SCCraE4MBfveqDMmp6zd+xJQfas=
+		H1mZrH7RCXEyXwxt7MbMHhXQZ9s=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		c/PpavHgv95fGmp6zBivs0o41qs=
+		GyCra74Ln/gIjll45uczC7baJhQ=
+		</data>
+		<key>Modules/AceTM.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		B0+Nh7RiC7M+4kvB6nt5Kzta81k=
+		</data>
+		<key>Modules/AceTM.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		H5AbPNKe8pykspyjNzi9FhS+NnE=
+		</data>
+		<key>Modules/AceTM.swiftmodule/armv7s.swiftdoc</key>
+		<data>
+		CuovpW7cMgV66Kzuw+XDjDEoNrU=
+		</data>
+		<key>Modules/AceTM.swiftmodule/armv7s.swiftmodule</key>
+		<data>
+		WIZycsOVklMuYtsNsRX2gmts3Nw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fiZAiJY5XIIMzvFeRV3GA5Nq8k0=
+			K1x4+eMTmha2lsGrOoq4CCakcy0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkT8OArjkB6oScg8IRPAtdwYp/qhjZVdJSKO25mT64I=
+			6apR+3RkLc8qxMXfP+pPBU7kdj+2B1CWjPgCuUvsnmM=
 			</data>
 		</dict>
 		<key>Headers/AceTM.h</key>
@@ -95,44 +111,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hvIXL/8PKgCTxjOeNsJWmGjv6JM=
+			B0+Nh7RiC7M+4kvB6nt5Kzta81k=
 			</data>
 			<key>hash2</key>
 			<data>
-			fLEenP+se0eegs7PRzrhiLZePJErZx9tNF2CJt2z1jE=
+			2RVrakRWeMDLtghrDTaeT5BgSAesVFRAxpq13ilSCrg=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oJd2QcT+EmiifPRP7yJKm7Yt7nE=
+			H5AbPNKe8pykspyjNzi9FhS+NnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			oz5k1m8Gl1G44OTEWMsAep2IxR3x7dEP3AMdzfWghhc=
+			Umofmspgs7UmrJlw8yhBonvl+S+AEcBwurp2b6/82HY=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SCCraE4MBfveqDMmp6zd+xJQfas=
+			H1mZrH7RCXEyXwxt7MbMHhXQZ9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			rmirR1/+Zg1KDTCFNCj2iSZWw6EIMM4MsWRZ/C09/JM=
+			syH4nYujnO3hwkCpdM0mBtzR2FaLyej8JLK5DlqH7wU=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c/PpavHgv95fGmp6zBivs0o41qs=
+			GyCra74Ln/gIjll45uczC7baJhQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			0GJfp5n8m1ops7kZ7Eo0dVZdSBKfStYXyrbXwKVF7yw=
+			hhGfJZgb38+3KJ0AX5q+/lrKbHMpB9vDtpTxwkPm+8U=
+			</data>
+		</dict>
+		<key>Modules/AceTM.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B0+Nh7RiC7M+4kvB6nt5Kzta81k=
+			</data>
+			<key>hash2</key>
+			<data>
+			2RVrakRWeMDLtghrDTaeT5BgSAesVFRAxpq13ilSCrg=
+			</data>
+		</dict>
+		<key>Modules/AceTM.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H5AbPNKe8pykspyjNzi9FhS+NnE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Umofmspgs7UmrJlw8yhBonvl+S+AEcBwurp2b6/82HY=
+			</data>
+		</dict>
+		<key>Modules/AceTM.swiftmodule/armv7s.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CuovpW7cMgV66Kzuw+XDjDEoNrU=
+			</data>
+			<key>hash2</key>
+			<data>
+			aiH6avGxsJK+O4p/uRdEluUYmu9uTcekvrHwhZWVPVQ=
+			</data>
+		</dict>
+		<key>Modules/AceTM.swiftmodule/armv7s.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WIZycsOVklMuYtsNsRX2gmts3Nw=
+			</data>
+			<key>hash2</key>
+			<data>
+			L2sRgUBz7vfznrcsfcQcous0UKlSci+NQbNDZzHfBF4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
