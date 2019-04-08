@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Bd7W7pXD8e9wxsm8hy98cCY4QJs=
+		g53lmVr7ssmChK2Zp8lNED2U9jQ=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm.swiftmodule</key>
 		<data>
-		CK0HXmi33I3nWXhYf1rysTdF2AU=
+		oJd2QcT+EmiifPRP7yJKm7Yt7nE=
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Xmfoue/uqy2kGGGqjbHxoDyouKg=
+		c/PpavHgv95fGmp6zBivs0o41qs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CK0HXmi33I3nWXhYf1rysTdF2AU=
+			oJd2QcT+EmiifPRP7yJKm7Yt7nE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBgqvSezP+KkGzMY8XSotL5Vbs5tA/MkjHOcwx9gI1o=
+			oz5k1m8Gl1G44OTEWMsAep2IxR3x7dEP3AMdzfWghhc=
 			</data>
 		</dict>
 		<key>Modules/AceTM.swiftmodule/arm64.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xmfoue/uqy2kGGGqjbHxoDyouKg=
+			c/PpavHgv95fGmp6zBivs0o41qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			oLb4zn8MoVBqp/t3FF6cu08ZX9c7wZdVO5hYgJKSV4o=
+			0GJfp5n8m1ops7kZ7Eo0dVZdSBKfStYXyrbXwKVF7yw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
