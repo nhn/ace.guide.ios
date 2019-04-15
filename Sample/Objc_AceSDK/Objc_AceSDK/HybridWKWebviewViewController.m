@@ -35,7 +35,7 @@
     CGRect webViewFrame = CGRectMake(mainFrame.origin.x,
                                      mainFrame.origin.y + topStatusBarHeight,
                                      mainFrame.size.width, mainFrame.size.height - topStatusBarHeight - bottomNativeButtonHeight);
-    NSURL *url = [NSURL URLWithString:@"http://www.amazingsoft.com/webview/index.html"];
+    NSURL *url = [NSURL URLWithString:@"http://www.acecounter.com"];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     wkWebView = [[WKWebView alloc] initWithFrame:webViewFrame configuration:config];
     [wkWebView setUIDelegate:self];

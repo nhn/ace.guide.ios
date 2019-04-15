@@ -40,7 +40,7 @@ class HybridWKWebViewViewController: UIViewController, WKNavigationDelegate, WKU
         
         // Do any additional setup after loading the view.
         classNameLabel.text = String(describing: HybridWKWebViewViewController.self)
-        guard let myURL = URL(string: "http://www.acecounter.com/www2/main.amz") else { return }
+        guard let myURL = URL(string: "http://www.acecounter.com") else { return }
         print("AceCommon.getIsDebug(): \(AceCommon.getIsDebug())")
         let myRequest = URLRequest(url: myURL)
         wkwebView.load(myRequest)

@@ -19,7 +19,7 @@ class HybridViewController: UIViewController, UIWebViewDelegate {
         
         classNameLabel.text = String(describing: HybridViewController.self)
         print("AceCommon.getIsDebug(): \(AceCommon.getIsDebug())")
-        let request = URLRequest(url: URL(string: "http://www.acecounter.com/www2/main.amz")!)
+        let request = URLRequest(url: URL(string: "http://www.acecounter.com")!)
         mWebView.loadRequest(request)
         mWebView.delegate = self
     }
